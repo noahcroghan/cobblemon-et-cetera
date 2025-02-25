@@ -1,0 +1,10 @@
+{
+  "uncap_menu_frame_rate": true,
+  "states": {
+    "hovered": {
+      "volume_multipliers": {
+        "master": 1.0
+      }
+    }
+  }
+}
